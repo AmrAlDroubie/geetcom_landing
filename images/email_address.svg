@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.09" y1="0.021" x2="1" y2="0.962" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0b154"/>
+      <stop offset="0.204" stop-color="#c18829"/>
+      <stop offset="0.495" stop-color="#ebc55c"/>
+      <stop offset="0.73" stop-color="#ddae45"/>
+      <stop offset="1" stop-color="#be8122"/>
+    </linearGradient>
+  </defs>
+  <g id="email_address" transform="translate(-1221 -3928)">
+    <rect id="Rectangle_2109" data-name="Rectangle 2109" width="44" height="44" rx="10" transform="translate(1221 3928)" fill="url(#linear-gradient)"/>
+    <g id="Icon_ionic-ios-mail" data-name="Icon ionic-ios-mail" transform="translate(1231.398 3935.968)">
+      <path id="Path_31253" data-name="Path 31253" d="M19.717,10.338l-4.262,4.341a.077.077,0,0,0,0,.111l2.982,3.177a.514.514,0,0,1,0,.729.516.516,0,0,1-.729,0l-2.971-3.165a.081.081,0,0,0-.115,0l-.725.737a3.189,3.189,0,0,1-2.273.958A3.253,3.253,0,0,1,9.3,16.24l-.7-.709a.081.081,0,0,0-.115,0L5.522,18.7a.516.516,0,0,1-.729,0,.514.514,0,0,1,0-.729L7.775,14.79a.084.084,0,0,0,0-.111L3.51,10.338a.078.078,0,0,0-.135.055v8.686a1.271,1.271,0,0,0,1.267,1.267H18.584a1.271,1.271,0,0,0,1.267-1.267V10.394A.079.079,0,0,0,19.717,10.338Z" transform="translate(0 -1.065)" fill="#fff"/>
+      <path id="Path_31254" data-name="Path 31254" d="M11.985,15.127a2.153,2.153,0,0,0,1.549-.65l6.214-6.325a1.245,1.245,0,0,0-.784-.277H5.01a1.237,1.237,0,0,0-.784.277l6.214,6.325A2.154,2.154,0,0,0,11.985,15.127Z" transform="translate(-0.372 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

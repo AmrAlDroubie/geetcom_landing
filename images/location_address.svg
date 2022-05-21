@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.09" y1="0.021" x2="1" y2="0.962" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0b154"/>
+      <stop offset="0.204" stop-color="#c18829"/>
+      <stop offset="0.495" stop-color="#ebc55c"/>
+      <stop offset="0.73" stop-color="#ddae45"/>
+      <stop offset="1" stop-color="#be8122"/>
+    </linearGradient>
+  </defs>
+  <g id="location_address" transform="translate(-313.525 -379.525)">
+    <rect id="location_address-2" data-name="location_address" width="44" height="44" rx="10" transform="translate(313.525 379.525)" fill="url(#linear-gradient)"/>
+    <path id="location" d="M13.4,3A5.894,5.894,0,0,0,7.5,8.9c0,4.423,5.9,10.953,5.9,10.953s5.9-6.53,5.9-10.953A5.894,5.894,0,0,0,13.4,3Zm0,8A2.106,2.106,0,1,1,15.5,8.9,2.107,2.107,0,0,1,13.4,11Z" transform="translate(322.365 390.337)" fill="#fff"/>
+  </g>
+</svg>
